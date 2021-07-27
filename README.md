@@ -7,8 +7,6 @@ Objetivo: Criar uma API Rest para controle de ponto e acesso dos usuários de um
 #### Será Utilizado: 
 1. Java 11 na interface IntelliJ
 2. SpringBoot 
-  1. Maven Project  
-  2. SpringWeb
-  3. Spring Data JPA
-  4. MySQL Driver
-  5. Lombok
+	* Maven Project  
+	* SpringWeb
+	* Lombok
